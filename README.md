@@ -1,1 +1,1 @@
-A port scanner written in python that scans a given network using the ARp and list all the nodes present on the network.
+This Python project utilizes the Scapy library to effectively scan a local network and identify connected devices by leveraging Address Resolution requests. It aims to provide clear, concise and ethically responsible tool for network discovery.
